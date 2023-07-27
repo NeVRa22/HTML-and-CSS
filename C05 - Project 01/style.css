@@ -1,0 +1,74 @@
+.home{
+    border: 1px solid black;
+    text-align:center;
+    position: absolute;
+    padding: 20px;  
+    margin-left: 40%;
+    margin-right: auto;
+    width: 20em;
+}
+.sign_up{
+    border: 1px solid black;
+    text-align:center;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;  
+    margin-left: 40%;
+    margin-right: auto;
+    width: 20em;
+}
+.calculator{
+    border: 1px solid black;
+    text-align:center;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;  
+    margin-left: 40%;
+    margin-right: auto;
+    width: 20em;
+}
+
+
+p{
+    text-align: justify;
+}
+[href]:hover{
+    cursor:pointer;
+}
+[href]{
+    text-decoration: none;
+}
+
+.head{
+    border-radius: 4px;
+    
+    background-color:LightSkyBlue;
+    border: 2px solid blue;
+}
+.current{
+    border-radius: 4px;
+    background-color:lightcoral;
+    border: 2px solid red;
+}            
+
+.key{
+    
+    background-color: white;
+}
+    
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none
+}
+.table{
+    margin-left: 20%;
+    margin-right: auto;
+    
+}
+.numbers:hover{
+    cursor:pointer;
+}
